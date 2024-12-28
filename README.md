@@ -33,8 +33,6 @@ Supports both Celsius-to-Fahrenheit and Fahrenheit-to-Celsius conversions.
 Validates input to ensure accurate calculations.
 Sample Run:
 
-mathematica
-Copy code
 Enter temperature value: 100
 Enter unit (C/F): C
 Converted temperature: 212.0 F
@@ -53,8 +51,6 @@ Ignores spaces and non-alphanumeric characters.
 Supports single words and phrases.
 Sample Run:
 
-less
-Copy code
 Enter a word or phrase: A man, a plan, a canal, Panama
 The input is a palindrome!
 Key Learnings:
@@ -71,8 +67,6 @@ Validates grade input to ensure values are between 0 and 100.
 Displays all grades entered and the calculated average.
 Sample Run:
 
-yaml
-Copy code
 Enter the number of grades to be entered: 3
 Enter grade 1: 85
 Enter grade 2: 90
@@ -98,8 +92,6 @@ Ensures at least one character type is selected.
 Validates password length input.
 Sample Run:
 
-ruby
-Copy code
 Enter the desired length of the password: 12
 Should the password include numbers (0-9)? true
 Should the password include lowercase letters (a-z)? true
@@ -107,6 +99,7 @@ Should the password include uppercase letters (A-Z)? true
 Should the password include special characters (!@#$%^&*)? true
 
 Generated Password: aB2!zX@4#Lm$
+
 Key Learnings:
 
 Building character pools dynamically based on user input.
@@ -118,10 +111,11 @@ As I move to Level 2, I aim to:
 Review Feedback: Incorporate suggestions and improvements for Level 1 tasks.
 Anticipate Advanced Requirements: Extend existing solutions, such as:
 Adding a GUI or file-handling capabilities.
+
 Improving program efficiency and scalability.
 Organize Code: Maintain a clean and modular structure for each task.
 
 If you have any suggestions or feedback, feel free to reach out to me:
 
 Email:sahilmaliya7@gmail.com
-GitHub:[ ](https://github.com/Sahil-Malaiya)
+GitHub:https://github.com/Sahil-Malaiya
