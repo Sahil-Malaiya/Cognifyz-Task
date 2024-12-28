@@ -1,4 +1,4 @@
-Internship Tasks at Cognifyz
+Internship Tasks at Cognifyz<br>
 Welcome to my Cognifyz Internship Project Repository! This repository documents all tasks I’ve completed during my internship, along with their explanations, sample runs, and learnings. Below, you'll find details about the tasks completed in Level 1 and how I plan to approach upcoming levels.
 
 Table of Contents
