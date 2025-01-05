@@ -5,7 +5,7 @@ Table of Contents<br>
 Overview
 Level 1: Completed Tasks
 1. Temperature Converter
-2. Palindrome Checker
+2. Palindrome Checker 
 3. Student Grade Calculator
 4. Random Password Generator
 Next Steps: Preparing for Level 2
