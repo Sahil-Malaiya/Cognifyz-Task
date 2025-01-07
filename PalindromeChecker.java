@@ -1,5 +1,5 @@
  import java.util.Scanner;
-
+import java.util.*;
 public class PalindromeChecker {
 
     // Method to remove spaces, punctuation, and convert to lowercase
