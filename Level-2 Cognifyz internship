@@ -1,0 +1,46 @@
+Level 2 Internship Tasks
+This repository contains solutions to the tasks assigned during my Level 2 internship. Below are the descriptions and implementation details of each task:
+
+Task 1: Password Strength Checker
+Description:
+This program evaluates the strength of a password based on the following criteria:
+
+Minimum length of 8 characters.
+Includes uppercase letters, lowercase letters, numbers, and special characters.
+Skills Demonstrated:
+String manipulation for password analysis.
+Conditional statements for applying password strength rules.
+User input handling to validate passwords dynamically.
+Implementation:
+The program analyzes a password and assigns a score based on the criteria met.
+It provides feedback to the user on whether the password is weak, moderate, or strong.
+Task 2: File Encryption/Decryption
+Description:
+A program to encrypt or decrypt the contents of a text file using a Caesar Cipher. It allows users to:
+
+Encrypt a text file and save the result to a new file.
+Decrypt an encrypted file and restore its original content.
+Skills Demonstrated:
+File handling in Java for reading and writing files.
+String manipulation using a simple cipher algorithm.
+User prompts and command-line interactions for choosing encryption or decryption.
+Implementation:
+The program reads the contents of an input file line by line.
+It shifts characters in the text to perform encryption or decryption.
+The processed content is written to a new output file specified by the user.
+Task 3: Two-Player Tic-Tac-Toe
+Description:
+This is a command-line-based Tic-Tac-Toe game designed for two players. The game:
+
+Displays a 3x3 game board.
+Alternates between two players for their moves.
+Checks for a winner or draw after every move.
+Allows replaying multiple rounds.
+Skills Demonstrated:
+Use of arrays for game board representation.
+Loops for input validation and board updates.
+Conditional statements for implementing game rules and outcomes.
+Implementation:
+The board is displayed dynamically as players make their moves.
+Win conditions (rows, columns, diagonals) are evaluated after every turn.
+The game is replayable without restarting the program.
